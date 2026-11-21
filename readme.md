@@ -9,8 +9,8 @@ An agentic AI application built with **Agno** and **Groq** (`openai/gpt-oss-120b
 3. **Generate Structured Analysis:** The model (`openai/gpt-oss-120b` via Groq) organizes the content into an overview, content-type cues, timestamped breakdown (`[start_time, end_time, detailed_summary]`), key takeaways, and practical references.
 4. **Review in the UI:** Read the formatted Markdown breakdown directly in your browser.
 
-### App Preview
-
+## Demo
+[Watch the 36-Second Screen Recording](demo.md)
 
 ## Features
 
