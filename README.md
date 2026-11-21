@@ -26,3 +26,6 @@ An agentic AI application built with **Agno** and **Groq** (`openai/gpt-oss-120b
 ├── requirements.txt    # Python dependencies
 ├── .gitignore          # Ignored secrets, cache, and environment files
 └── README.md           # Project documentation
+
+Daman Dhillon |
+[LinkedIn](https://https://www.linkedin.com/in/daman-jeet-kaur-dhillon-324191312/) | [GitHub](https://github.com/DamanDhillon16)
