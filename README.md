@@ -1,9 +1,18 @@
 # YouTube Video Analyzer Agent (Agno + Groq + Streamlit)
 
+An agentic AI application built with **Agno** and **Groq** (`openai/gpt-oss-120b`), paired with a **Streamlit** web interface (`ui.py`). Paste any YouTube video URL into the app, and the agent fetches metadata and captions using `YouTubeTools` to produce a structured video overview, timestamped segments, key learning points, and content references.
+
 ## Demo
 [Watch the 36-Second Screen Recording](demo.md)
 
-An agentic AI application built with **Agno** and **Groq** (`openai/gpt-oss-120b`), paired with a **Streamlit** web interface (`ui.py`). Paste any YouTube video URL into the app, and the agent fetches metadata and captions using `YouTubeTools` to produce a structured video overview, timestamped segments, key learning points, and content references.
+## Screenshots 
+<img width="1055" height="435" alt="Screenshot 2026-11-26 162926" src="https://github.com/user-attachments/assets/4aba0f20-4261-4a32-97fc-93ab3728f9f3" />
+<img width="1232" height="639" alt="Screenshot 2026-11-26 163113" src="https://github.com/user-attachments/assets/9f65f1aa-ce72-4cb4-b585-6ad430291df2" />
+<img width="1111" height="628" alt="Screenshot 2026-11-26 163132" src="https://github.com/user-attachments/assets/4c97e30f-b9d0-4e4b-8039-f6f3efdb1fa1" />
+<img width="941" height="520" alt="Screenshot 2026-11-26 163224" src="https://github.com/user-attachments/assets/1f6b38a0-53c9-4b88-a6d4-f809476c5cff" />
+
+
+
 
 ## How It Works
 
